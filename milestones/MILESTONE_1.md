@@ -1,9 +1,7 @@
 # Milestone 1
 
 ## Introduction
-You need to build foundation of your project and because that project does not differ much from [React Calculator](https://github.com/microverseinc/project-react-calculator-solution)
-, we'll use same pre-defined components. You are going to create project with `react-create-app` package and install `redux` and
-`react-redux` to connect these two pieces together.
+You need to build the foundation of your project and because this project does not differ much from the [React Calculator](https://github.com/microverseinc/project-react-calculator-solution), we'll the use same pre-defined components. You are going to create the project with `react-create-app` package and install `redux` and `react-redux` to connect these two pieces together.
 
 ## Requirements
 
@@ -12,7 +10,7 @@ You need to build foundation of your project and because that project does not d
    - Provide server.js as the starting file
    - Check the resulting package.json file
    - Documentation: [https://docs.npmjs.com/cli/init](https://docs.npmjs.com/cli/init)
-2. You should use npm to install following packages:
+2. You should use npm to install the following packages:
    - `react`, `react-dom`, `react-redux`, `redux`
    - Documentation: [http://expressjs.com/en/starter/installing.html](http://expressjs.com/en/starter/installing.html)
 3. You should add `react-scripts` as a development dependency
@@ -21,6 +19,6 @@ You need to build foundation of your project and because that project does not d
    - Documentation: [https://github.com/facebook/create-react-app/tree/next/packages/react-scripts](https://github.com/facebook/create-react-app/tree/next/packages/react-scripts)
 4. You should initialize the project directory structure
    - Create `/src` directory
-   - Add `index.js` to /src directory and import React libraries there. Use ReactDOM to render basic markup: [https://reactjs.org/docs/react-dom.html](https://reactjs.org/docs/react-dom.html)
+   - Add `index.js` to /src directory and import React libraries there. Use ReactDOM to render the basic markup: [https://reactjs.org/docs/react-dom.html](https://reactjs.org/docs/react-dom.html)
    - Create `/public` directory
-   - Add `index.html` file with basic HTML template. Make sure your html includes root selector with ID so you can attach React render to it.
+   - Add `index.html` file with basic HTML template. Make sure your html includes a root div with a unique ID so you can render React into it.
