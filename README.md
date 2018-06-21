@@ -14,9 +14,7 @@ In this project you will learn how to connect React with Redux and build super s
 
 ## The Project
 
-Magic-books Inc. is a fictional company based in Germany. They have requested your help to build simple application that
-would assist them to organize and manage their bookstore. They want it to be fast, dynamic and resposive to their actions
-immediately therefore you decided to build it with React & Redux.
+Magic-books Inc. is a fictional company based in Germany. They have requested your help to build the front-end of a simple application that would assist them to organize and manage their bookstore. They want it to be fast, dynamic and resposive to their actions immediately therefore you decided to build it with React & Redux.
 
 ## Milestones
 
