@@ -22,7 +22,3 @@ Magic-books Inc. is a fictional company based in Germany. They have requested yo
 - **Milestone 2**: [Components and Redux store](milestones/MILESTONE_2.md)
 - **Milestone 3**: [Interactive form](milestones/MILESTONE_3.md)
 - **Milestone 4**: [Category filter](milestones/MILESTONE_4.md)
-
----
-
-**NOTE**: Would you like to build projects like this with a coding partner? [Microverse](http://www.microverse.org/) offers an online training program for remote software developers where you will work with students from around the world doing pair programming while working on freelance and open-source projects.
