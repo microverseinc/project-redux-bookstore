@@ -18,11 +18,7 @@ Magic-books Inc. is a fictional company based in Germany. They have requested yo
 
 ## Milestones
 
-- **Milestone 1**: [Basic project structure](milestones/MILESTONE_1.md)
-- **Milestone 2**: [Components and Redux store](milestones/MILESTONE_2.md)
-- **Milestone 3**: [Interactive form](milestones/MILESTONE_3.md)
-- **Milestone 4**: [Category filter](milestones/MILESTONE_4.md)
-
----
-
-**NOTE**: Would you like to build projects like this with a coding partner? [Microverse](http://www.microverse.org/) offers an online training program for remote software developers where you will work with students from around the world doing pair programming while working on freelance and open-source projects.
+- **Milestone 1**: [Basic project structure](https://github.com/microverseinc/project-redux-bookstore/blob/master/milestones/MILESTONE_1.md)
+- **Milestone 2**: [Components and Redux store](https://github.com/microverseinc/project-redux-bookstore/blob/master/milestones/MILESTONE_2.md)
+- **Milestone 3**: [Interactive form](https://github.com/microverseinc/project-redux-bookstore/blob/master/milestones/MILESTONE_3.md)
+- **Milestone 4**: [Category filter](https://github.com/microverseinc/project-redux-bookstore/blob/master/milestones/MILESTONE_4.md)
