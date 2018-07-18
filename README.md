@@ -1,12 +1,13 @@
-# Build a simple book store with React and Redux
+# Build a simple bookstore management tool with React and Redux
 
 ## Introduction
-In this project you will learn how to connect React with Redux and build super simple application with storage. You will work in a real-world project for a fictional company that requires your help. The project has been split into multiple milestones, and each milestone has functional and technical requirements that you will need to implement.
+In this project you will use React and Redux to build a very simple application. You will work in a real-world project for a fictional company that requires your help. The project has been split into multiple milestones, and each milestone has functional and technical requirements that you will need to implement.
 
 ## Tools you will use
 - Node.js
 - React
 - React-DOM
+- React-Create-App
 - Redux
 - npm
 - CSS
@@ -14,7 +15,7 @@ In this project you will learn how to connect React with Redux and build super s
 
 ## The Project
 
-Magic-books Inc. is a fictional company based in Germany. They have requested your help to build the front-end of a simple application that would assist them to organize and manage their bookstore. They want it to be fast, dynamic and responsive to their actions and therefore you decided to build it with React & Redux.
+Magic-books Inc. is a fictional company based in Germany. They have requested your help to build the front-end of an application that will help them organize and manage their bookstore. They want it to be fast, dynamic and responsive to their actions and therefore you decided to build it with React & Redux.
 
 ## Milestones
 
