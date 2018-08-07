@@ -17,5 +17,3 @@ Magic-Books Inc. requested one additional functionality to be added to the appli
     - Render the `CategoryFilter` component in the `BooksList` component.
     - Implement the `handleFilterChange` method which modifies the `filter` state in the Redux store. Pass it down as a prop to `CategoryFilter`.
     - Implement a conditional method which decides which books should be shown in the table depending on the `filter` value from Redux store.
-
-That's it! Your application is fully functional and ready to be handed over to the client. Great work :)
