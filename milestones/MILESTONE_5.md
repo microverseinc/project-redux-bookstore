@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is an optional but recommended milestone. So far, you have implemented all the frontend functionality of the bookstore management app using React and Redux. However, the application still looks very ugly. In this milestone, you will follow the provided design specs to build a UI for your app.
+So far, you have implemented all the frontend functionality of the bookstore management app using React and Redux. However, the application still looks very ugly. In this milestone, you will follow the provided design specs to build a UI for your app.
 
 ![Bookstore CMS](https://github.com/microverseinc/project-redux-bookstore/blob/master/images/main-ui.png?raw=true)
 
