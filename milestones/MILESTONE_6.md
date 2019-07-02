@@ -2,8 +2,6 @@
 
 ## Introduction
 
-This milestone is optional, but it can be a great addition to your portfolio, so we recommend that you go ahead and implement it.
-
 Your application lets you keep a list of the books that you own. However, as soon as you close the browser, all the updates will get lost. What's missing here? The backend!
 
 In order for this to be a full application, you need to connect it with a backend that can store all the information about the books that you own. Since you are already proficient with Ruby on Rails, let's build one!
