@@ -24,4 +24,4 @@ Magic-books Inc. is a fictional company based in Germany. They have requested yo
 - **Milestone 3**: [Interactive form](https://github.com/microverseinc/project-redux-bookstore/blob/master/milestones/MILESTONE_3.md)
 - **Milestone 4**: [Category filter](https://github.com/microverseinc/project-redux-bookstore/blob/master/milestones/MILESTONE_4.md)
 - **Milestone 5**: [UI](https://github.com/microverseinc/project-redux-bookstore/blob/master/milestones/MILESTONE_5.md)
-- **Milestone 6**: [OPTIONAL][Backend](https://github.com/microverseinc/project-redux-bookstore/blob/master/milestones/MILESTONE_6.md)
+- **Milestone 6** (optional): [Backend](https://github.com/microverseinc/project-redux-bookstore/blob/master/milestones/MILESTONE_6.md)
