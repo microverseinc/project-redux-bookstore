@@ -1,4 +1,4 @@
-# Milestone 6
+# [OPTIONAL] Milestone 6
 
 ## Introduction
 
