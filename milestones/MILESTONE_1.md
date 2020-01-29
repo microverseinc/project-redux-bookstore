@@ -8,9 +8,10 @@ You need to build the foundation of your project, and because this project does 
 1. Use `create-react-app` to initialize a new React app
     - Documentation: [https://github.com/facebook/create-react-app](https://github.com/facebook/create-react-app)
 2. Delete any unnecessary file or asset
-3. Add the necessary Redux packages to your project:
+3. Add the necessary packages to your project:
     - Add `react-redux` using npm.
     - Add `redux` using npm.
+    - Add [`prop-types`](https://www.npmjs.com/package/prop-types) using npm for [typechecking props](https://reactjs.org/docs/typechecking-with-proptypes.html).
 4. Run the application with `npm start` and make sure that everything works correctly.
 5. Follow the instructions in `create-react-app-buildpack` to deploy the app to Heroku
     - Initialize a git repo
